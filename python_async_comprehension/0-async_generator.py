@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """Define an asynchronous generator of random numbers."""
 
