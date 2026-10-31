@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """Define an asynchronous coroutine that waits for a random delay."""
 
