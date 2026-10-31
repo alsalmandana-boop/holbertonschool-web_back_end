@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """Create an asyncio Task using wait_random."""
 

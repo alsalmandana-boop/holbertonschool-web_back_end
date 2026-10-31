@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """Measure the average runtime of concurrent coroutines."""
 
